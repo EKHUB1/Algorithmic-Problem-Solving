@@ -47,5 +47,5 @@ A comprehensive collection of advanced algorithmic problems solved using Python.
 
 ## 🤝 Credits
 Project developed for the **Advanced Algorithmics** course at **Universitat de Barcelona (UB)**.
-* **Co-author:** Kai Oliveros
 * **Co-author:** Marc Sanz
+* **Co-author:** Kai Oliveros
